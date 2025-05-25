@@ -42,7 +42,7 @@ Menurut World Meteorological Organization (WMO), intensitas cuaca ekstrem mening
   - [Weather Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/thedevastator/weather-prediction)
 
   ### Informasi Dataset
-- **Jumlah baris:** 3.654  
+- **Jumlah baris:** 3.654 
 - **Jumlah kolom/fitur:** 165  
 - **Tipe data:** `float64`, `int64`  
 - **Kolom tanggal:** `DATE` (format awal `YYYYMMDD`, telah dikonversi ke `datetime`)  
