@@ -93,7 +93,7 @@ Pada tahap ini dilakukan serangkaian proses persiapan data sebelum pelatihan mod
 - Teknik ini bertujuan menyamakan skala antar fitur, penting untuk model seperti LSTM.
 - Digunakan `MinMaxScaler` dari `sklearn.preprocessing`.
 - Formula:
-![alt text](?https://github.com/thisiskisur/Proyek-Pertama-Predictive-Analytics/blob/main/Screenshot%202025-05-25%20195405.pngraw=true)
+![alt text](https://github.com/thisiskisur/Proyek-Pertama-Predictive-Analytics/blob/main/Screenshot%202025-05-25%20195405.png?raw=true)
 
 - Output normalisasi disimpan sebagai `weather_scaled`.
 
